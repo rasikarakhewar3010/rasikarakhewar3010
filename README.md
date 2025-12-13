@@ -19,7 +19,6 @@
     </a>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=rasikarakhewar3010&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -27,7 +26,7 @@
 
 ## About Me
 
-I am a **Computer Science professional** with a strong focus on building scalable web applications and AI-integrated solutions. I specialize in the **MERN stack** and have a solid foundation in **Data Structures and Algorithms**. I am passionate about designing clean, intuitive user interfaces and developing robust, efficient backend architectures.
+I focus on building scalable web applications and AI-integrated solutions using the MERN stack. I have a strong foundation in Data Structures and Algorithms and enjoy turning complex problems into clean, intuitive user interfaces backed by efficient, reliable backend architectures.
 
 - **Education**: B.Tech in CSE (2022-2026) - CGPA: 7.8/10
 - **Currently working on**: Advanced AI-driven web apps.
@@ -54,12 +53,5 @@ I am a **Computer Science professional** with a strong focus on building scalabl
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rasikarakhewar3010&theme=radical&hide_border=true&bg_color=0D1117" alt="streak stats" />
-</div>
-
-<br>
-
-<!-- Snake Animation (Requires GitHub Action to run once) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rasikarakhewar3010/rasikarakhewar3010/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasikarakhewar3010&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
