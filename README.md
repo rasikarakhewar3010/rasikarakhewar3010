@@ -8,7 +8,7 @@
     <a href="https://rasikarakhewar.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/rasikarakhewar/" target="_blank">
+    <a href="https://www.linkedin.com/in/rasika-rakhewar/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:rasikarakhewar30102004@gmail.com">
