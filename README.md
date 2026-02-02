@@ -43,12 +43,6 @@ I focus on building scalable web applications and AI-integrated solutions using 
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasikarakhewar3010&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikarakhewar3010&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
 
 <br>
 
