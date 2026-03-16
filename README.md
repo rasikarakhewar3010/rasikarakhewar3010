@@ -43,12 +43,4 @@ I focus on building scalable web applications and AI-integrated solutions using 
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasikarakhewar3010&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasikarakhewar3010&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" alt="Rasika's GitHub Stats" />
-</div>
