@@ -28,7 +28,7 @@
 
 I focus on building scalable web applications and AI-integrated solutions using the MERN stack. I have a strong foundation in Data Structures and Algorithms and enjoy turning complex problems into clean, intuitive user interfaces backed by efficient, reliable backend architectures.
 
-- **Education**: B.Tech in CSE (2022-2026) - CGPA: 7.8/10
+- **Education**: B.Tech in CSE (2022-2026) - CGPA: 8.2/10
 - **Currently working on**: Advanced AI-driven web apps.
 - **Learning**: Cloud Security & Advanced System Design.
 - **Open for**: Full-time opportunities & collaborations.
